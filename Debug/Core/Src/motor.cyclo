@@ -1,0 +1,6 @@
+motor.c:41:6:Motor_Service	39
+motor.c:342:6:closeStep	1
+motor.c:358:6:openStep	1
+motor.c:371:6:open	2
+motor.c:384:6:close	2
+motor.c:397:6:stop	1

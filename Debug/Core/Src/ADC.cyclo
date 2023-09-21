@@ -1,0 +1,6 @@
+ADC.c:32:6:ADC_Service	1
+ADC.c:80:10:GetADC	1
+ADC.c:85:11:GetADC1	1
+ADC.c:88:10:getADC	1
+ADC.c:96:10:GetVolt	1
+ADC.c:105:10:GetCurr	1

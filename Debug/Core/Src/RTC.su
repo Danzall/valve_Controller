@@ -1,0 +1,6 @@
+../Core/Src/RTC.c:36:6:incSeconds	40	static
+../Core/Src/RTC.c:76:6:rtcClock	72	static
+../Core/Src/RTC.c:121:5:getUptime	24	static
+../Core/Src/RTC.c:125:5:getTime	24	static
+../Core/Src/RTC.c:129:6:updateTime	64	static
+../Core/Src/RTC.c:211:6:checkTimer	8	static

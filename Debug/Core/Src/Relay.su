@@ -1,0 +1,2 @@
+../Core/Src/Relay.c:18:6:RelayOn	8	static
+../Core/Src/Relay.c:25:6:RelayOff	8	static

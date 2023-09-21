@@ -1,0 +1,6 @@
+../Core/Src/motor.c:41:6:Motor_Service	184	static
+../Core/Src/motor.c:342:6:closeStep	8	static
+../Core/Src/motor.c:358:6:openStep	8	static
+../Core/Src/motor.c:371:6:open	8	static
+../Core/Src/motor.c:384:6:close	8	static
+../Core/Src/motor.c:397:6:stop	8	static

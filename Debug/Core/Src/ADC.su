@@ -1,0 +1,6 @@
+../Core/Src/ADC.c:32:6:ADC_Service	40	static
+../Core/Src/ADC.c:80:10:GetADC	8	static
+../Core/Src/ADC.c:85:11:GetADC1	8	static
+../Core/Src/ADC.c:88:10:getADC	24	static
+../Core/Src/ADC.c:96:10:GetVolt	24	static
+../Core/Src/ADC.c:105:10:GetCurr	24	static

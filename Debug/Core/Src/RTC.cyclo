@@ -1,0 +1,6 @@
+RTC.c:36:6:incSeconds	11
+RTC.c:76:6:rtcClock	8
+RTC.c:121:5:getUptime	1
+RTC.c:125:5:getTime	1
+RTC.c:129:6:updateTime	1
+RTC.c:211:6:checkTimer	11
